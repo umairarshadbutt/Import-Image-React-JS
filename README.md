@@ -1,12 +1,39 @@
-# Getting Started with Create React App
+<h3 align="center">Import Image - React JS</h3>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<div align="center">
 
-## Available Scripts
+[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/umairarshadbutt/Import-Image-React-JS)
+[![Github Issues](https://img.shields.io/badge/GitHub-Issues-orange)](https://github.com/umairarshadbutt/Import-Image-React-JS/issues)
+[![GitHub2 Pull Requests](https://img.shields.io/badge/GitHub-Pull%20Requests-blue)](https://github.com/umairarshadbutt/Import-Image-React-JS/pulls)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+</div>
+<p align="center">IMport image in React JS is a example project, which includes managing the image in public folder.I used React JS, HTML5, and CSS3 to implement it</p>
 
-In the project directory, you can run:
+## Built With
 
-### `yarn start`
+- React JS
+- HTML5
+- CSS3
+
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+- Text Editor (VSCode is suggested.)
+
+
+### Setup
+
+- Install [git](https://git-scm.com/downloads)
+- Open Terminal
+- Change directory to folder to download repository
+- Use `cd <file-path>`
+- Run `git clone https://github.com/umairarshadbutt/Import-Image-React-JS`
+- Use `npx webpack`
+- In the project directory, you can run:
+- Run `yarn start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -14,30 +41,54 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To make any change,
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Open related file by using text editor.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Authors
 
-### `yarn eject`
+👤 **Umair Arshad**
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- Github: [@umairarshadbutt](https://github.com/umairarshadbutt)
+- Twitter: [@its_UmairArshad](https://twitter.com/its_UmairArshad)
+- Linkedin: [umair-arshad-butt](https://www.linkedin.com/in/umair-arshad-butt/)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 🤝 Contributing
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Contributions, issues and feature requests are welcome! Start by:
+
+- Forking the project
+- Cloning the project to your local machine
+- `cd` into the project directory
+- Run `git checkout -b your-branch-name`
+- Make your contributions
+- Push your branch up to your forked repository
+- Open a Pull Request with a detailed description to the development branch of the original project for a review
+
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- This article is written for article(How to Compile React Application and Import an Image in React JS)
+
+
+## 📝 License
+
+This project is [MIT](LICENSE) licensed.
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
 
 ## Learn More
 
